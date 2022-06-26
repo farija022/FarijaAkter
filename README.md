@@ -5,4 +5,5 @@
 - 💬 Ask me about Node.js or any tech related stuff
 - 😄 Pronouns: She/Her
 -->
-![GitHub Stats](https://github-readme-stats.vercel.api username=FarijaAkter&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.api?username=FarijaAkter&theme=radical)
