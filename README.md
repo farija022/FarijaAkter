@@ -4,3 +4,5 @@
 - 🤔 I’m looking for help with Youtube
 - 💬 Ask me about Node.js or any tech related stuff
 - 😄 Pronouns: She/Her
+
+![GitHub Stats](https://github-readme-stats.vercel.api username=FarijaAkter&theme=radical)
