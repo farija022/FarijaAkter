@@ -8,5 +8,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarijaAkter&theme=onedark)
 
--->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FarijaAkter&theme=onedark)](https://git.io/streak-stats)
