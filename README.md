@@ -6,6 +6,9 @@
 - 😄 Pronouns: She/Her
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarijaAkter&theme=prussian)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarijaAkter&theme=synthwave)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FarijaAkter&theme=prussian)](https://git.io/streak-stats)
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FarijaAkter&theme=synthwave)](https://git.io/streak-stats)
