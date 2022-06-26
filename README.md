@@ -6,4 +6,4 @@
 - 😄 Pronouns: She/Her
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.api?username=FarijaAkter&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarijaAktert&theme=radical)
