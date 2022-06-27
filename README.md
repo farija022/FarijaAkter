@@ -5,7 +5,7 @@
 - 💬 Ask me about Node.js or any tech related stuff
 - 😄 Pronouns: She/Her
 -->
-
+<img src="(https://github-readme-stats.vercel.app/api?username=FarijaAkter&theme=synthwave)">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarijaAkter&theme=synthwave)
 
 
